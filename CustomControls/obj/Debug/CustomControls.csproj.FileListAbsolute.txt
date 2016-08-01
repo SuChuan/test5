@@ -1,0 +1,14 @@
+D:\Winform资料\ExCheckedListBox\ExCheckedListBox_Src\ExCheckedListBox\CustomControls\bin\Debug\ClassLibrary1.dll
+D:\Winform资料\ExCheckedListBox\ExCheckedListBox_Src\ExCheckedListBox\CustomControls\bin\Debug\ClassLibrary1.pdb
+D:\Winform资料\ExCheckedListBox\ExCheckedListBox_Src\ExCheckedListBox\CustomControls\obj\Debug\ClassLibrary1.dll
+D:\Winform资料\ExCheckedListBox\ExCheckedListBox_Src\ExCheckedListBox\CustomControls\obj\Debug\ClassLibrary1.pdb
+D:\AEProject\pixChange\ExCheckedListBox\CustomControls\bin\Debug\ClassLibrary1.dll
+D:\AEProject\pixChange\ExCheckedListBox\CustomControls\bin\Debug\ClassLibrary1.pdb
+D:\AEProject\pixChange\ExCheckedListBox\CustomControls\obj\Debug\CustomControls.csprojResolveAssemblyReference.cache
+D:\AEProject\pixChange\ExCheckedListBox\CustomControls\obj\Debug\ClassLibrary1.dll
+D:\AEProject\pixChange\ExCheckedListBox\CustomControls\obj\Debug\ClassLibrary1.pdb
+D:\AEProject\pixChange\CustomControls\bin\Debug\ClassLibrary1.dll
+D:\AEProject\pixChange\CustomControls\bin\Debug\ClassLibrary1.pdb
+D:\AEProject\pixChange\CustomControls\obj\Debug\CustomControls.csprojResolveAssemblyReference.cache
+D:\AEProject\pixChange\CustomControls\obj\Debug\ClassLibrary1.dll
+D:\AEProject\pixChange\CustomControls\obj\Debug\ClassLibrary1.pdb
